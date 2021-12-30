@@ -1,0 +1,4 @@
+Minimum temperature = 28
+Maximum temperature = 34
+Minimum humidity = 80
+Seconds for filling = 10
